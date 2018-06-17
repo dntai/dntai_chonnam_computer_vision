@@ -77,6 +77,9 @@ Image information: 48 x 48 x 1
 + Face Matching using Hungarian Method, <br/>
 + Face Description with VGG Face<br/>
 
+## Future Works: Bag-of-Word using Deep Learning
++ Use CNN Model for feature extraction (old: SIFT)<br/>
++ Use RNN for building histogram model (old: K-Means)<br/>
 
 ## References
 
