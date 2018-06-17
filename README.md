@@ -5,6 +5,9 @@ Professor: **Chilwoo Lee**<br/>
 Student: **Do Nhu Tai**<br/>
 **Target: Emotional Expression with Bag-of-Word and Deep Learning**<br/>
 
+## Dataset: [Kaggle Fer2013] - Facial Expression Recognition Challenge
+<a href="https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/">https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/</a></br>
+
 ## Problem 01: Emotion with Bag-of-Word and Sparse SIFT Feature
 
 ## Problem 02: Emotion with Deep Learning
