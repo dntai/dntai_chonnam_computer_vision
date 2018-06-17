@@ -67,8 +67,16 @@ Image information: 48 x 48 x 1
 ## Problem 03: Video Emotion Extraction
 
 **(1) Program Description:**<br/>
-+ Extract small video clips in a video and vote video emotion of small clips
++ Extract small video clips in a video and vote video emotion of small clips<br/>
 ![alt text](https://github.com/dntai/dntai_chonnam_computer_vision/blob/master/images/VideoEmotionExtraction.png)
+
+**(2) Program Feature:**<br/>
++ Console Program with Modules <br/>
++ Emotion MLCNN, <br/>
++ Face Detection Dlib, OpenCV, MTCNN, <br/>
++ Face Matching using Hungarian Method, <br/>
++ Face Description with VGG Face<br/>
+
 
 ## References
 
