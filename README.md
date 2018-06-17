@@ -17,6 +17,12 @@ Image information: 48 x 48 x 1
 (2) Training Images:<br/>
 ![alt text](https://github.com/dntai/dntai_chonnam_computer_vision/blob/master/images/training_images.png)
 
+(3) Validating Images:<br/>
+![alt text](https://github.com/dntai/dntai_chonnam_computer_vision/blob/master/images/validating_images.png)
+
+(4) Testing Images:<br/>
+![alt text](https://github.com/dntai/dntai_chonnam_computer_vision/blob/master/images/testing_images.png)
+
 ## Problem 01: Emotion with Bag-of-Word and Sparse SIFT Feature
 
 ## Problem 02: Emotion with Deep Learning
