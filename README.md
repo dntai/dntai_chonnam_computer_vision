@@ -50,6 +50,15 @@ Image information: 48 x 48 x 1
 
 ## Problem 02: Emotion with Deep Learning
 
+**(1) Deep Learning CNN-Like-VGG16 Model:**<br/>
+<pre>
++ Block 1 – 3 Conv2D (64, (3,3)) , MaxPooling (2,2), Dropout (0.2)
++ Block 2 – 4 Conv2D (128, (3,3)), MaxPooling (2,2), Dropout (0.2)
++ Block 3 – 4 Conv2D (256, (3,3)), MaxPooling (2,2), Dropout (0.2)
++ Classifier – Flattern, Dense (1024), Dropout(0.5), Dense(7, SoftMax)
+</pre>
+
+
 ## Problem 03: Video Emotion Extraction
 
 ## References
