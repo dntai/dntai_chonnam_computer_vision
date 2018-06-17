@@ -58,6 +58,11 @@ Image information: 48 x 48 x 1
 + Classifier – Flattern, Dense (1024), Dropout(0.5), Dense(7, SoftMax)
 </pre>
 
+**(2) Training History:**<br/>
+![alt text](https://github.com/dntai/dntai_chonnam_computer_vision/blob/master/images/CNN_Training.png)
+
+**(3) Results:**<br/>
+![alt text](https://github.com/dntai/dntai_chonnam_computer_vision/blob/master/images/CNN_Result.png)
 
 ## Problem 03: Video Emotion Extraction
 
