@@ -1,6 +1,6 @@
 # COMPUTER VISION FINAL PROJECT
 Chonnam National University, Gwangju, South Korea<br/>
-**2018-06 3-D Vision Class**<br/>
+**[2018-06] Computer Vision Class**<br/>
 Professor: **Chilwoo Lee**<br/>
 Student: **Do Nhu Tai**<br/>
 **Target: Emotional Expression with Bag-of-Word and Deep Learning**<br/>
