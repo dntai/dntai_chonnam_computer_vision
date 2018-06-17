@@ -7,14 +7,15 @@ Student: **Do Nhu Tai**<br/>
 
 ## Dataset: [Kaggle Fer2013] - Facial Expression Recognition Challenge
 <a href="https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/">https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/</a></br>
-### Dataset Information:
+(1) Dataset Information:<br/>
 <pre>
 Number of images in the training dataset:	 28,709
 Number of images in the public dataset:		  3,589
 Number of images in the private dataset:	  3,589
 Image information: 48 x 48 x 1
 </pre>
-
+(2) Training Images:<br/>
+![alt text](https://github.com/dntai/dntai_chonnam_computer_vision/blob/master/images/training_images.png)
 
 ## Problem 01: Emotion with Bag-of-Word and Sparse SIFT Feature
 
