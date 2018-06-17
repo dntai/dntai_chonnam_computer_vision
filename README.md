@@ -28,6 +28,22 @@ Image information: 48 x 48 x 1
 
 ## Problem 01: Emotion with Bag-of-Word and Sparse SIFT Feature
 
+(1) Traininig Process:<br/>
++ Extract descriptors using SIFT<br/>
++ Merge descriptors into local patches<br/>
++ Cluster local patches using Mini Batch K-Means to build codewords<br/>
++ Build Feature Histogram Model based on codewords<br/>
++ Normalize Feature Histogram Model
++ Classify by Multi-Class SVM<br/>
+
+(2) Testing Process:<br/>
++ Extract descriptors using SIFT<br/>
++ Match descriptors with K-Means Cluster Center to build codewords for testing image<br/>
++ Create and normalize Feature Histogram Model for Image Codewords<br/>
++ Predict by Multi-Class SVM<br/>
+
+![alt text](https://github.com/dntai/dntai_chonnam_computer_vision/blob/master/images/BagOfWord_Model.png)
+
 ## Problem 02: Emotion with Deep Learning
 
 ## Problem 03: Video Emotion Extraction
